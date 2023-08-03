@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I got the Ph.D. degree from City University of Hong Kong, Hong Kong SAR, China and the B.Eng degree from Huazhong University of Science of Technology, Wuhan, China
 
-- 🌱 I'm currently focused on image and video processing, generative models, especially AIGC
+- 🌱 My research interests include image and video processing and generative models. Recently, I focus on AI-Generated Content (AIGC) and Multimodal Large Language Model (MLLM)
 
 - 💬 How to reach me: **yzzhao2-c@my.cityu.edu.hk**
 
